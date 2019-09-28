@@ -1,0 +1,35 @@
+{
+  "name": "joke",
+  "version": "1.0.0",
+  "description": "newNPM",
+  "main": "build/pages/index.html",
+  "scripts": {
+    "test": "go"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoviceSpecialist/NoviceSpecialist.github.io.git"
+  },
+  "keywords": [
+    "yfcnhjqrb1"
+  ],
+  "author": "fedor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoviceSpecialist/NoviceSpecialist.github.io/issues"
+  },
+  "homepage": "https://github.com/NoviceSpecialist/NoviceSpecialist.github.io#readme",
+  "dependencies": {
+    "autoprefixer": "^9.6.1",
+    "browser-sync": "^2.26.7",
+    "cssnano": "^4.1.10",
+    "gulp-imagemin": "^6.1.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-twig": "^1.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
