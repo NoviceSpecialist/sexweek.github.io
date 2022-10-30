@@ -21,7 +21,7 @@
   "homepage": "https://github.com/NoviceSpecialist/NoviceSpecialist.github.io#readme",
   "dependencies": {
     "autoprefixer": "^9.6.1",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "cssnano": "^4.1.10",
     "gulp-imagemin": "^6.1.0",
     "gulp-postcss": "^8.0.0",
